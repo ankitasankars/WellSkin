@@ -15,8 +15,7 @@ It also features exactly what Skin Cancer is and it's types, causes, symptoms an
 
 ![Screenshot (306)](https://user-images.githubusercontent.com/64346030/103871388-01a81600-50f3-11eb-8b52-58646424ead0.png)
 ![Screenshot (307)](https://user-images.githubusercontent.com/64346030/103871379-ff45bc00-50f2-11eb-885f-ccbbb5dd58e2.png)
-![Screenshot (308)](https://user-images.githubusercontent.com/64346030/103871382-0076e900-50f3-11eb-93ad-da08c44b38ef.png)
-![Screenshot (309)](https://user-images.githubusercontent.com/64346030/103871385-010f7f80-50f3-11eb-9579-66924698ba00.png)
+
 
 ## Languages and Frameworks used:
 
