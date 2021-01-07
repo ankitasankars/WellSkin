@@ -2,7 +2,7 @@
 Empowering you to maintain your skin health
 
 ## About
-A responsive website helping you maintain your skin health by offering the following options :)
+A responsive website helping you maintain your skin health by offering the following options:
 
 - Self Examination for skin cancer
 - Checking your risk level with a questionnaire
@@ -12,6 +12,18 @@ A responsive website helping you maintain your skin health by offering the follo
 - Suggestions for Self Help Groups
 
 It also features exactly what Skin Cancer is and it's types, causes, symptoms and prevention.
+<div align = "">
+ <img width="80%" height="70%" src="Screenshot (306).PNG" alt="">
+</div>
+<div align = "">
+ <img width="80%" height="70%" src="Screenshot (307).PNG" alt="">
+</div>
+<div align = "">
+ <img width="80%" height="70%" src="Screenshot (308).PNG" alt="">
+</div>
+<div align = "">
+ <img width="80%" height="70%" src="Screenshot (309).PNG" alt="">
+</div>
 ## Languages and Frameworks used:
 
  <div>
