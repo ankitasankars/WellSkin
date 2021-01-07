@@ -16,3 +16,6 @@ It also features exactly what Skin Cancer is and it's types, causes, symptoms an
 ## Website Link
 
 https://ankitasankars.github.io/WellSkin/
+or
+https://wellskin.netlify.app/
+
