@@ -2,13 +2,13 @@
 Empowering you to maintain your skin health
 
 ## About
-A responsive site helping you maintain your skin health by offering the following options :)
+A responsive website helping you maintain your skin health by offering the following options :)
 
-- Self Examination
-- Check your risk level
-- Reminder alerts
+- Self Examination for skin cancer
+- Checking your risk level with a questionnaire
+- Reminder alerts for appointments
 - Nearby Dermatologists
-- Blogs
-- Self Help Groups
+- Blogs for more information
+- Suggestions for Self Help Groups
 
-It also features exactly what Skin Cancer is and it's types,causes,symptoms and prevention.
+It also features exactly what Skin Cancer is and it's types, causes, symptoms and prevention.
