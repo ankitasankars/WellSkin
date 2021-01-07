@@ -12,18 +12,7 @@ A responsive website helping you maintain your skin health by offering the follo
 - Suggestions for Self Help Groups
 
 It also features exactly what Skin Cancer is and it's types, causes, symptoms and prevention.
-<div align = "">
- <src="Screenshot (306).PNG" alt="">
-</div>
-<div align = "">
- <src="Screenshot (307).PNG" alt="">
-</div>
-<div align = "">
- <src="Screenshot (308).PNG" alt="">
-</div>
-<div align = "">
- <src="Screenshot (309).PNG" alt="">
-</div>
+
 ## Languages and Frameworks used:
 
  <div>
