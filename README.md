@@ -1,5 +1,5 @@
 <h1 align="center">WellSkin</h1> 
-<h1 align="center">Empowering you to maintain your skin health.</h1>
+<h3 align="center">Empowering you to maintain your skin health.</h3>
 
 # About
 Skin cancer is the most common human malignancy, is primarily diagnosed visually, beginning with an initial clinical screening and followed potentially by dermoscopic analysis, a biopsy and histopathological examination. 
