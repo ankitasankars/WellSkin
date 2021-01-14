@@ -7,7 +7,7 @@ Automated classification of skin lesions using images is a challenging task owin
 
 ### Model
 
-**We have tried to create a model to detect and classify a mole into benign or malignant.**
+**We have created a model to detect and classify a mole into benign or malignant.**
 The dataset is taken from the ISIC (International Skin Image Collaboration) Archive.
 It consists of 1800 pictures of benign moles and 1497 pictures of malignant classified moles. The pictures have all been resized to low resolution (224x224x3) RGB. 
 
