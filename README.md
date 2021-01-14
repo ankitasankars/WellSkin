@@ -1,7 +1,7 @@
 # WellSkin
 Empowering you to maintain your skin health
 
-## About
+# About
 Skin cancer is the most common human malignancy, is primarily diagnosed visually, beginning with an initial clinical screening and followed potentially by dermoscopic analysis, a biopsy and histopathological examination. 
 Automated classification of skin lesions using images is a challenging task owing to the fine-grained variability in the appearance of skin lesions.
 
@@ -36,7 +36,7 @@ In this kernel we will try to detect 2 different classes of moles using Convolut
 ![Screenshot (307)](https://user-images.githubusercontent.com/64346030/103871379-ff45bc00-50f2-11eb-885f-ccbbb5dd58e2.png)
 
 
-## Languages and Frameworks used:
+# Languages and Frameworks used:
 
  <div>
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -45,7 +45,7 @@ In this kernel we will try to detect 2 different classes of moles using Convolut
  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
  </div>
 
-## Website Link
+# Website Link
 
 https://ankitasankars.github.io/WellSkin/
 or
