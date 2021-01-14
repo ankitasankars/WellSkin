@@ -1,4 +1,4 @@
-<h1 align="center"># WellSkin</h1> 
+<h1 align="center">WellSkin</h1> 
 <h1 align="center">Empowering you to maintain your skin health.</h1>
 
 # About
