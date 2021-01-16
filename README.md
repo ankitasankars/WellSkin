@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64346030/104805812-bf6c8c00-57f8-11eb-97cc-4d8f57f9f5ca.jpg" />
+  <img src="https://user-images.githubusercontent.com/64346030/104805975-014a0200-57fa-11eb-8fea-cb7e1dc46558.jpg" />
 </p>
 <h1 align="center">WellSkin</h1> 
 <h4 align="center">Empowering you to maintain your skin health.</h4>
