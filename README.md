@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/64346030/104805812-bf6c8c00-57f8-11eb-97cc-4d8f57f9f5ca.jpg" />
 </p>
 <h1 align="center">WellSkin</h1> 
-<h3 align="center">Empowering you to maintain your skin health.</h3>
+<h4 align="center">Empowering you to maintain your skin health.</h4>
 
-# About
+## About
 Skin cancer is the most common human malignancy, is primarily diagnosed visually, beginning with an initial clinical screening and followed potentially by dermoscopic analysis, a biopsy and histopathological examination. 
 Automated classification of skin lesions using images is a challenging task owing to the fine-grained variability in the appearance of skin lesions.
 
