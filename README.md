@@ -1,3 +1,4 @@
+<img src="![logo 1](https://user-images.githubusercontent.com/64346030/104805414-af07e180-57f7-11eb-96c4-139d12e8071e.jpg)" width="300" height="300"/>
 <h1 align="center">WellSkin</h1> 
 <h3 align="center">Empowering you to maintain your skin health.</h3>
 
