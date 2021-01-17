@@ -65,7 +65,7 @@ https://wellskin.netlify.app/
 Ankita Kokkera
 
 <p align="center">
-<img src = "Images/Ankita.jpg"  height="120" alt="Ankita">
+<img src = "https://user-images.githubusercontent.com/64346030/104832029-07041e00-58b4-11eb-872d-2b7f04a291cb.jpeg"  height="120" alt="Ankita">
 </p>
 <p align="center">
 <a href = "https://github.com/ankitasankars"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
