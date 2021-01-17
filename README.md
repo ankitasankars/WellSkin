@@ -26,12 +26,12 @@ In this kernel we will try to detect 2 different classes of moles using Convolut
 
 **It is responsive website helping you maintain your skin health by offering the following options:**
 
-- Self Examination for skin cancer
-- Checking your risk level with a questionnaire
-- Reminder alerts for appointments
-- Nearby Dermatologists
-- Blogs for more information
-- Suggestions for Self Help Groups
+- [x] Self Examination for skin cancer
+- [x] Checking your risk level with a questionnaire
+- [x] Reminder alerts for appointments
+- [x] Nearby Dermatologists
+- [x] Blogs for more information
+- [x] Suggestions for Self Help Groups
 
 **It also features exactly what Skin Cancer is and it's types, causes, symptoms and prevention.**
 
@@ -55,4 +55,72 @@ In this kernel we will try to detect 2 different classes of moles using Convolut
 https://ankitasankars.github.io/WellSkin/
 or
 https://wellskin.netlify.app/
+
+# Contributors
+
+<table>
+  <tr>
+<td widht:25%>
+
+Ankita Kokkera
+
+<p align="center">
+<img src = "Images/Ankita.jpg"  height="120" alt="Ankita">
+</p>
+<p align="center">
+<a href = "https://github.com/ankitasankars"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ankita-k-4b943611a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+      
+  
+<td widht:25%>
+
+Kamalini Singh Chauhan 
+
+<p align="center">
+<img src = ""  height="120" alt="Kamalini">
+</p>
+<p align="center">
+<a href = "https://github.com/kamalini-hub"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/kamalini-singh-chauhan-62266a18b/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td widht:25%>
+
+Shruti Singh
+
+<p align="center">
+<img src = ""  height="120" alt="Shruti">
+</p>
+<p align="center">
+<a href = "https://github.com/shruti110"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/mwlite/in/shruti-s-4b3141103">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+  
+<td widht:25%>
+
+Hrithika Chatterjee
+
+<p align="center">
+<img src = ""  height="120" alt="Hrithika">
+</p>
+<p align="center">
+<a href = "https://github.com/Hrithika-Chatterjee?tab=repositories"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/hrithika-chatterjee-93609919b/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+
 
