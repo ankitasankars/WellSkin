@@ -81,7 +81,7 @@ Ankita Kokkera
 Kamalini Singh Chauhan 
 
 <p align="center">
-<img src = ""  height="120" alt="Kamalini">
+<img src = "https://user-images.githubusercontent.com/64346030/104948603-93f9c500-59e3-11eb-88f3-0b330d9b6d08.jpeg"  height="120" alt="Kamalini">
 </p>
 <p align="center">
 <a href = "https://github.com/kamalini-hub"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
