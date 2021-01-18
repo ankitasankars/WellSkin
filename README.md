@@ -111,7 +111,7 @@ Shruti Singh
 Hrithika Chatterjee
 
 <p align="center">
-<img src = ""  height="120" alt="Hrithika">
+<img src = "https://user-images.githubusercontent.com/68853402/104929225-9cdd9d00-59c9-11eb-9032-69d2485d8d38.jpeg"  height="120" alt="Hrithika">
 </p>
 <p align="center">
 <a href = "https://github.com/Hrithika-Chatterjee?tab=repositories"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
