@@ -96,7 +96,7 @@ Kamalini Singh Chauhan
 Shruti Singh
 
 <p align="center">
-<img src = ""  height="120" alt="Shruti">
+<img src = "https://user-images.githubusercontent.com/64346030/104948750-cd323500-59e3-11eb-880a-058fc601e552.jpeg"  height="120" alt="Shruti">
 </p>
 <p align="center">
 <a href = "https://github.com/shruti110"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
